@@ -7,3 +7,11 @@ This repository is for the seminar Data Workflow from **Hands on machine learnin
 The flowwing are included in this repository:
 - Presentations slides 
 - Jupyter notebook
+
+Prerequisite:
+- Scikit-Learn
+- Numpy
+- Six
+- Matplotlib
+- Pandas
+
